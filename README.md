@@ -6,3 +6,5 @@ A list of short URLs to popular content.
 [DigMinecraft](https://met.bz/an9DkDt)
 
 [Beluga Wiki](https://met.bz/H2YJkHPJCS)
+
+[Days.to](https://met.bz/KVy6Jg)
