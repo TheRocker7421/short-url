@@ -1,10 +1,10 @@
 # Short URLs
 A list of short URLs to popular content.
 
-[ABCya!](https://met.bz/ypHteW)
+[ABCya!](https://cb.run/6NQ6)
 
-[DigMinecraft](https://met.bz/an9DkDt)
+[DigMinecraft](https://cb.run/HTQK)
 
-[Beluga Wiki](https://met.bz/H2YJkHPJCS)
+[Beluga Wiki](https://cb.run/8ntk)
 
-[Days.to](https://met.bz/KVy6Jg)
+[Days.to](https://cb.run/nKWt)
